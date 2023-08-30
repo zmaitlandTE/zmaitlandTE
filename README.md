@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on TE prework and exercise
+- 🌱 I’m currently learning javascript
+- 👯 I’m looking to collaborate on new projects
+- 📫 How to reach me: zmaitland@gmail.com
+- 😄 Pronouns: he/him or they/them
+- ⚡ Fun fact: former top 20 dance dance revolution player
